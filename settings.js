@@ -110,7 +110,7 @@ global.buttonDefault = [{
    quickReplyButton: {
       displayText: '⚡ Command ⚡',
       id: '.command'
-   }
+   },
    {
    quickReplyButton: {
       displayText: 'telestiker',
